@@ -1,3 +1,6 @@
+# Made By ArrowDev | Ali Hany
+# Made in 3/3/2024 | Last Update 3/3/2024
+# visit us! | https://arrow-dev.rf.gd
 import hashlib
 from sys import argv as arg
 
